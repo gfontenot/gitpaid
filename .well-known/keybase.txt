@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/gfontenot
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://gitpushgitpaid.com
+  * I am gfontenot (https://keybase.io/gfontenot) on keybase.
+  * I have a public key with fingerprint FC96 877D E91A C0B4 381D  D33A 0BF4 A6C7 2DA8 F9CE
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "fc96877de91ac0b4381dd33a0bf4a6c72da8f9ce",
+            "host": "keybase.io",
+            "key_id": "0BF4A6C72DA8F9CE",
+            "uid": "f515dcfb82705ebf3f700be912b21300",
+            "username": "gfontenot"
+        },
+        "service": {
+            "hostname": "gitpushgitpaid.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1395943718,
+    "expire_in": 157680000,
+    "prev": "8e4bacb004593c5dd420e34dd6154c1c657cdce54cbf893c0783f25b5a73789c",
+    "seqno": 10,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owE1kV1IFFEUx3dNK3WjUnswjWCgUlplZmdmZ2b3QVzT3aAPSgqVZJ25c2d30p1Z
+Z2fXZNuH6AMU+pISacMMSqSyKETyQRArlxQsyLIv0ggK1IrFwFSQ7kjel3PvOf/z
++9/DubJpnSnFnPmnO1HUszhuHhtaFEyVlLw7igmq2Iw5olg9XA2SrPigFtRkRccc
+mAQ4O8swIuQIHuACRbKEKJIkjwsSxdsBYxN5VuIAxKyYXw0ZHQgj8CFYLKsohx5e
+WURZ3FVBldrLGNu+UraCKytHtfBqQaIJWgSSwNoYnIaCREoMjgvIzibYCBLHDWEI
+agofgEjtk1RFh4qqYzErhtIRGVmjTxveaxJZD4ZDfiPwslgM1ABCBDVVV4HagOp+
+XQ86jHa9OWjom6Dg/U/yCrIiovFRQwRqIVlVMAeBlECXDTRBcjRHkQzBWjF4Kihr
+0CsbCpqxszg6hg2MICQLKYEHAo5TNEcCWhQpGw5JShTtBE0BAthpBogAorsgsUiB
+Mywp2WiB5hmSYTmAGbM1KipiI6jO+xAzJPsUXg9rEIu1mPNTTeYU0/q0FGODpoz0
+LWt7dZ/ZaBr9uDBS+/xLO/i1+XdbmrP/fA2WM+gfftCdltf3Pb6y4Bwm455zd1v3
+fi3cUVEcp4JdiZ6zBVhdZ3WEuViSnO5vD7fceVs9yjJDx+YLqzp7a55YDs3unB6c
+etWXvZJXEHBbGmKgy1HesfTs+qXRmXjysvbpUf63rJwRqvFI+tT75IvlxhJ24rAl
+N5cZTj5OjSh/Pdv6fhY6s6+lJPIGxh+e3hrfY116V1uf33ph7LOLV2cG7iU8yQ9z
+Vztubc9cPDDrXvZ4MrKi9+dP/nDJgf1Tdak3X7piyckbpja68vWu3qaMztvOseDm
+yciGExNRy1yspvvg06NVx9+4Z4uS/wA=
+=hxjY
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gfontenot
+
+==================================================================
